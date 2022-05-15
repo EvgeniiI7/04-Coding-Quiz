@@ -29,14 +29,14 @@ Website:
 
 https://evgeniii7.github.io/04-Coding-Quiz/
 
-## screenshot#1
+## Screenshot 1
 <img src="https://user-images.githubusercontent.com/88345845/168481648-ec2eae95-36d5-4d0a-9fb1-8aae22971f04.png" width="500"/>
 
-## screenshot#2
+## Screenshot 2
 <img src="https://user-images.githubusercontent.com/88345845/168481660-d440d978-8d11-4c3e-8d53-51774a3d2085.png" width="500"/>
 
-## screenshot#3
+## Screenshot 3
 <img src="https://user-images.githubusercontent.com/88345845/168481680-09989ebf-adf7-4a39-9d65-23fabf9e0cf1.png" width="500"/>
 
-## screenshot#4
+## Screenshot 4
 <img src="https://user-images.githubusercontent.com/88345845/168481691-b8505927-4be1-4e68-893d-3786ae5c6791.png" width="500"/>
