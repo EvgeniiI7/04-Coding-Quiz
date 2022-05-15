@@ -28,7 +28,7 @@ Built With
 Website:
 
 https://evgeniii7.github.io/04-Coding-Quiz/
-* 
+
 <img src="https://user-images.githubusercontent.com/88345845/168481648-ec2eae95-36d5-4d0a-9fb1-8aae22971f04.png" width="500"/>
 * 
 <img src="https://user-images.githubusercontent.com/88345845/168481660-d440d978-8d11-4c3e-8d53-51774a3d2085.png" width="500"/>
