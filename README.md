@@ -18,7 +18,6 @@ If the user answers any question incorrectly, a time penalty is applied to the t
 When all of the questions are answered or the timer runs out of time, then the test is over;
 At this point, the user will be asked to enter their initials and the score will be saved.
 
-
 Built With
 
 * HTML
